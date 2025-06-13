@@ -3,19 +3,6 @@
 Bug/Task Tracker Interface
 This project is a web-based Bug/Task Tracker application built using React.js. It features a simple authentication system with role-based access, allowing both developers and managers to view and manage tasks. The application is designed with a clean, intuitive, and responsive user interface.
 
-Table of Contents
-Features
-
-Technology Stack
-
-Setup and Running Locally
-
-User Authentication
-
-Assumptions
-
-Future Improvements
-
 Features
 User Authentication & Role Management:
 
